@@ -1,0 +1,21 @@
+{
+  "name": "gulp-sample",
+  "version": "1.0.0",
+  "description": "sample gulp project",
+  "main": "index.js",
+  "dependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",    
+    "gulp-imagemin": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sothavirak",
+  "license": "ISC"
+}
